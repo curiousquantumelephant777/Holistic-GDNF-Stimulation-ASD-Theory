@@ -53,5 +53,3 @@ GDNF acts as a **firmware update** (long-term structural reinforcement via scaff
 ## Institutional Alignment (UCLA)
 
 This exploratory, neurodiversity-affirming framework is being refined in preparation for graduate applications at **UCLA’s Semel Institute for Neuroscience and Human Behavior**. It aligns with UCLA’s ongoing work in neurodevelopmental disorders, neural stem cell biology, and ASD models (e.g., studies linking maternal inflammation, stem-cell overgrowth, and autism-like behaviors). Future empirical validation at institutions like UCLA could explore non-invasive neurotrophic pathways while respecting neurodiversity principles.
-
-## Mechanism Flow
