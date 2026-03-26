@@ -1,6 +1,6 @@
 ### 💫 GDNF as a "Firmware Flash" for Neural Brightness and Plasma Stellation
 
-I am exploring the hypothesis that **GDNF** (Glial cell line-Derived Neurotrophic Factor) functions like a biological “firmware update:" a deep structural reset rather than a temporary software patch. After targeted holistic GDNF stimulation, I noticed changes in my iris, which inspired me to think about how this remarkable protein might improve eye health.
+I am exploring the hypothesis that **GDNF** (Glial cell line-Derived Neurotrophic Factor) functions like a biological “firmware update:" a deep structural reset rather than a temporary software patch. After targeted holistic GDNF stimulation, I noticed changes in my neural and retinal hardware, which inspired me to think about how this remarkable protein might improve eye health.
 
 Specifically, GDNF may:
 
