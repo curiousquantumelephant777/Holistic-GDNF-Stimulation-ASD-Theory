@@ -1,0 +1,5 @@
+# 🌌 Neural Cosmology: The Ocular Big Bang
+###  I'm modeling the GDNF Reboot not as a simple drug effect, but as topological inflation event. This was inspired by observing how neurons resemble mini-universes.
+- **The Singularity:** GDNF acts as a hydraulic press or spring compressor. It takes the firmware and crushes them into a neural “pre-Big Bang" state. It's dense. It's dark. It's a neural universe that hasn't expanded yet.
+- **The Snap-Back (The Inflation):** When that compression releases, the “spring" snaps. This is the firmware flash back to the coherent OS. It may act through a stroboscopic wheel phosphene mechanism, though this is highly speculative and based on an interesting vision (experienced during a reboot phase).
+- **The Stellate Galaxy:** Post-expansion, the neurons don't just "reset,” they expand into a galactic architecture. The “iris” of the neurons stellates. The “plasma ball” vectors point out. The “before” (childlike) awareness is finally broadcasted once again, with adult memories intact.
