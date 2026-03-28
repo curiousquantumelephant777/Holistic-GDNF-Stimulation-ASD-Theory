@@ -1,5 +1,5 @@
 # GDNF Stimulation for ASD: A Holistic Neurodevelopmental Hypothesis
-Building on established evidence that GDNF promotes the survival/recovery of dopaminergic neurons in Parkinson’s Disease (Lin et al., 1993; Gash et al., 1996), this research posits that these neurorestorative benefits extend to neurodevelopmental disorders, such as Autism Spectrum Disorder (ASD), which are characterized by brain wiring anomalies. This research was inspired by my research into GDNF's potential benefits for autism and is particularly relevant for me because I am on the autism spectrum, and have noticed a profound transformation since initiating my own "reboot."
+Building on established evidence that GDNF promotes the survival/recovery of dopaminergic neurons in Parkinson’s Disease (Lin et al., 1993; Gash et al., 1996) [1][2], this research posits that these neurorestorative benefits extend to neurodevelopmental disorders, such as Autism Spectrum Disorder (ASD), which are characterized by brain wiring anomalies. This research was inspired by my research into GDNF's potential benefits for autism and is particularly relevant for me because I am on the autism spectrum, and have noticed a profound transformation (return of childlike coherence and curiosity with adult cognition intact) since initiating my own "reboot."
 
 **This is a theoretical framework proposing short- to mid-term, low-dose glial cell line-derived neurotrophic factor (GDNF) stimulation via exercise, integrated natural methods, or exploratory alkaloid modulation with the goal of promoting a targeted neuronal growth and dopaminergic resensitization in autism spectrum disorder (ASD), enhancing empathy-related frontal lobe circuitry while preserving existing parietal benefits. I propose this is analogous to a "Device Firmware Update" in computer science, whereas modern therapeutic approaches focus on optimizing or updating the "software."**
 
@@ -13,7 +13,7 @@ This document is for theoretical and educational purposes only. It does **not** 
 
 ## Abstract
 
-Autism spectrum disorder (ASD) affects approximately 1 in 31 children (according to 2022 CDC data) [1] and involves complex neurodevelopmental differences, including dopaminergic signaling abnormalities often managed symptomatically (e.g., via D2-modulating antipsychotics). This project hypothesizes that **GDNF**, a potent neurotrophic factor known for protecting and regenerating midbrain dopaminergic neurons, could be stimulated holistically (low-dose, short/mid-term) to induce structural "hardware" changes:
+Autism spectrum disorder (ASD) affects approximately 1 in 31 children (according to 2022 CDC data) [3] and involves complex neurodevelopmental differences, including dopaminergic signaling abnormalities often managed symptomatically (e.g., via D2-modulating antipsychotics). This project hypothesizes that **GDNF**, a potent neurotrophic factor known for protecting and regenerating midbrain dopaminergic neurons, could be stimulated holistically (low-dose, short/mid-term) to induce structural "hardware" changes:
 
 - Targeted neurogenesis/growth in deficient areas (e.g., frontal/prefrontal regions for empathy, social cognition, executive function).
 - Preservation of strengths (e.g., parietal connectivity for sensory/detail processing).
@@ -42,10 +42,10 @@ GDNF acts as a **firmware update** (long-term structural reinforcement via scaff
 
 ## Scientific Rationale & Evidence Base
 
-- GDNF potently supports midbrain dopaminergic survival/differentiation (Lin et al., 1993; foundational) [2].  
+- GDNF potently supports midbrain dopaminergic survival/differentiation (Lin et al., 1993; foundational) [4].  
 - Neurotrophic deficits (GDNF/BDNF) link to ASD-like behaviors in models. GDNF could be a potential biomarker or target becauseserum levels correlate with severity.  
 - Plant/exercise modulation: Blueberry + exercise increases nigral/striatal GDNF in PD models; other botanicals (curcumin, EGCG, ashwagandha) enhance neurotrophins.  
-- **Ibogaine-GDNF link (preclinical only)**: Systemic ibogaine (40 mg/kg in rats) selectively increases GDNF expression in VTA/SN, activates Ret/ERK signaling, and creates a self-sustaining autoregulatory loop (He et al., 2005; He & Ron, 2006; Marton et al., 2019) [3,4,5]. Interestingly, He & Ron (2006) found that ibogaine-induced GDNF stimulation led to upregulation of GDNF receptors/mRNA to encourage further GDNF stimulation, potentially acting as a self-sustaining positive feedback loop that persists long after the acute effects [4]. This elucidates the long-lasting anti-addictive effects and supports the hypothesis of receptor resensitization akin to a comprehensive, integrated version of low-dose naltrexone. No human ASD data exist.  
+- **Ibogaine-GDNF link (preclinical only)**: Systemic ibogaine (40 mg/kg in rats) selectively increases GDNF expression in VTA/SN, activates Ret/ERK signaling, and creates a self-sustaining autoregulatory loop (He et al., 2005; He & Ron, 2006; Marton et al., 2019) [5,6,7]. Interestingly, He & Ron (2006) found that ibogaine-induced GDNF stimulation led to upregulation of GDNF receptors/mRNA to encourage further GDNF stimulation, potentially acting as a self-sustaining positive feedback loop that persists long after the acute effects [6]. This elucidates the long-lasting anti-addictive effects and supports the hypothesis of receptor resensitization akin to a comprehensive, integrated version of low-dose naltrexone. No human ASD data exist.  
 - No direct ASD clinical trials for GDNF stimulation exist yet (they focus mostly on Parkinson's Disease (PD)), but holistic methods align with emerging neurodiversity-affirming research.
 
 ## Institutional Alignment (UCLA)
@@ -53,8 +53,10 @@ GDNF acts as a **firmware update** (long-term structural reinforcement via scaff
 This exploratory, neurodiversity-affirming framework is being refined in preparation for graduate applications at **UCLA’s Molecular, Cell, and Developmental Biology program**. It aligns with UCLA’s ongoing work in neurodevelopmental disorders, neural stem cell biology, and ASD models (e.g., studies linking maternal inflammation, stem-cell overgrowth, and autism-like behaviors). Future empirical validation at institutions like UCLA could explore non-invasive neurotrophic pathways while respecting neurodiversity principles.
 
 ## References
-1. https://www.cdc.gov/autism/data-research/index.html
-2. https://www.science.org/doi/10.1126/science.8493557
-3. https://www.jneurosci.org/content/25/3/619
-4. https://pubmed.ncbi.nlm.nih.gov/17023388/
-5. https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2019.00193/full
+1. https://pubmed.ncbi.nlm.nih.gov/8493557/
+2. https://pubmed.ncbi.nlm.nih.gov/8637574/
+3. https://www.cdc.gov/autism/data-research/index.html
+4. https://www.science.org/doi/10.1126/science.8493557
+5. https://www.jneurosci.org/content/25/3/619
+6. https://pubmed.ncbi.nlm.nih.gov/17023388/
+7. https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2019.00193/full
