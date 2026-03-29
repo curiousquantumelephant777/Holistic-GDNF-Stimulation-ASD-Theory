@@ -25,8 +25,8 @@ fig = plt.figure(figsize=(8, 8), facecolor='white', edgecolor='white')
 plt.axis('off')
 
 # We can start at the "Soma" (0,0) and grow upwards
-# We can change 'depth' to simulate "Re-arborization" (e.g., 4 is decoherent/stochioastic noise, 8 is rebooted or childlike state)
+# We can change 'depth' to simulate "Re-arborization" (e.g., 5 is decoherent/stochioastic noise, 9 is rebooted or childlike state)
 draw_dendrite(0, 0, np.pi/2, 10, depth=10, noise_factor=0.2)
 
-plt.title("Holistic Dendritic Re-arborization (GDNF Reboot)", color='purple')
+plt.title("Holistic Dendritic Re-arborization (post-GDNF Reboot)", color='purple')
 plt.show()
