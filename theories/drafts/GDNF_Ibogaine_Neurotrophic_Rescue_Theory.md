@@ -20,6 +20,17 @@ The neural architecture is viewed here not as a static machine, but as a dynamic
 
 ## $\color{mediumpurple}{\text{Methodology}}$
 
+### $\color{mediumpurple}{\text{2. The Recursive Dendrite Model}}$
+This model posits that neurotrophic restoration follows a recursive growth algorithm. Unlike linear repair, where a stimulus leads to a fixed amount of growth, a recursive model suggests that each new dendritic branch increased by $\large{\textit{GDNF}}$ signaling serves as a new platform for further receptor expression.
+
+
+| Stage | Mechanism | Biological / Structural Outcome |
+| :--- | :--- | :--- |
+| **1. Initial Pulse** | Sub-perceptual iboga alkaloids | Triggers primary $\large{\textit{GDNF}}$ release and receptor priming. |
+| **2. Branching** | Dendritic arborization | Increased spine density and expanded $\textit{GFR}\alpha1$ receptor fields. |
+| **3. Feedback** | Signal Amplification | Captured neurotrophins trigger the [He & Ron (2006)](https://doi.org/10.1096/fj.06-6394fje) autoregulatory loop. |
+| **4. Stability** | Neural Homeostasis | The neural architecture becomes a self-maintaining, resilient system. |
+
 ## $\color{mediumpurple}{\text{References}}$
 1. <a id="ref1"></a> Nicolas M. (2025). Ibogaine's potential role in supporting reward system recovery across diagnostic boundaries. Frontiers in pharmacology, 16, 1744383. https://doi.org/10.3389/fphar.2025.1744383
 2. <a id="ref2"></a> He, D. Y., & Ron, D. (2006). Autoregulation of glial cell line-derived neurotrophic factor expression: implications for the long-lasting actions of the anti-addiction drug, Ibogaine. FASEB journal : official publication of the Federation of American Societies for Experimental Biology, 20(13), 2420–2422. https://doi.org/10.1096/fj.06-6394fje
