@@ -20,7 +20,7 @@ The neural architecture is viewed here not as a static machine, but as a dynamic
 
 ## $\color{mediumpurple}{\text{Methodology}}$
 
-### $\color{mediumpurple}{\text{2. The Recursive Dendrite Model}}$
+### $\color{mediumpurple}{\text{The Recursive Dendrite Model}}$
 This model posits that neurotrophic restoration follows a recursive growth algorithm. Unlike linear repair, where a stimulus leads to a fixed amount of growth, a recursive model suggests that each new dendritic branch increased by $\large{\textit{GDNF}}$ signaling serves as a new platform for further receptor expression.
 
 
