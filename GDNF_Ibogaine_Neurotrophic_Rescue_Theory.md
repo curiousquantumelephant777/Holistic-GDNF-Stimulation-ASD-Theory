@@ -21,8 +21,8 @@ The neural architecture is viewed here not as a static machine, but as a dynamic
 ## $\color{mediumpurple}{\text{Methodology}}$
 
 ### $\color{mediumpurple}{\text{The Recursive Dendrite Model}}$
-This model posits that neurotrophic restoration follows a recursive growth algorithm. Unlike linear repair, where a stimulus leads to a fixed amount of growth, a recursive model suggests that each new dendritic branch increased by $\large{\textit{GDNF}}$ signaling serves as a new platform for further receptor expression.
 
+This model posits that neurotrophic restoration follows a recursive growth algorithm. Unlike linear repair, where a stimulus leads to a fixed amount of growth, a recursive model suggests that each new dendritic branch increased by $\large{\textit{GDNF}}$ signaling serves as a new platform for further receptor expression.
 
 | Stage | Mechanism | Biological / Structural Outcome |
 | :--- | :--- | :--- |
@@ -34,3 +34,8 @@ This model posits that neurotrophic restoration follows a recursive growth algor
 ## $\color{mediumpurple}{\text{References}}$
 1. <a id="ref1"></a> Nicolas M. (2025). Ibogaine's potential role in supporting reward system recovery across diagnostic boundaries. Frontiers in pharmacology, 16, 1744383. https://doi.org/10.3389/fphar.2025.1744383
 2. <a id="ref2"></a> He, D. Y., & Ron, D. (2006). Autoregulation of glial cell line-derived neurotrophic factor expression: implications for the long-lasting actions of the anti-addiction drug, Ibogaine. FASEB journal : official publication of the Federation of American Societies for Experimental Biology, 20(13), 2420–2422. https://doi.org/10.1096/fj.06-6394fje
+3. 
+<div align="center">
+  <img src="final_comparison_fixed.png" width="90%" />
+  <p><b>Figure 1:</b> Comparison of Neural Topologies. <i>Left:</i> Aberrant/Decoherent state. <i>Right:</i> Post-GDNF Holistic Re-arborization.</p>
+</div>
