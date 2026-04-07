@@ -52,6 +52,14 @@ GDNF acts as a **firmware update** (long-term structural reinforcement via scaff
 
 This exploratory, neurodiversity-affirming framework is being refined in preparation for graduate applications at **UCLA’s Molecular, Cell, and Developmental Biology program**. It aligns with UCLA’s ongoing work in neurodevelopmental disorders, neural stem cell biology, and ASD models (e.g., studies linking maternal inflammation, stem-cell overgrowth, and autism-like behaviors). Future empirical validation at institutions like UCLA could explore non-invasive neurotrophic pathways while respecting neurodiversity principles.
 
+## 💫 Future Directions: Reverse Engineering the "Reboot"
+
+To move this framework from theory to real-world validation, I plan to collaborate with leading labs at UCLA’s MCDB and Neurogenetics programs that specialize in high-dimensional biological data.
+
+* **Evolutionary Developmental Mapping (Shah Lab):** I’m excited to apply the lab’s expertise in machine learning and spatial transcriptomics to understand how genetic variation shapes shifts in developmental strategies. In particular, I’d like to use this lab's automated label-free cell lineage tracing methods to track how GDNF-induced arborization patterns unfold at the cellular level, bypassing the usual limitations of genetics.
+* **Epigenomic Profiling (Pellegrini Lab):** Here, we could explore how GDNF/BDNF autoregulatory loops influence the epigenome. Drawing on the lab’s strengths in DNA methylation analysis, we can test whether “pulsed rescue” approaches leave a durable molecular signature in neural stem cells.
+* **Systems Biology & Neurogenetics (Geschwind Lab):** I’d aim to align the Recursive Dendrite Model with the lab’s extensive transcriptomic and functional genomic maps of autism spectrum disorder (ASD). The key question is whether GDNF-mediated “symphony” states can help reverse or modulate the specific gene expression disruptions observed in their large-scale ASD cohorts.
+
 ## References
 1. https://pubmed.ncbi.nlm.nih.gov/8493557/
 2. https://pubmed.ncbi.nlm.nih.gov/8637574/
