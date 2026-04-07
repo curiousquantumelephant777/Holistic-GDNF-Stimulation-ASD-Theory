@@ -1,9 +1,9 @@
-# $\color{indigo}{\text{The GDNF-Ibogaine Axis:}}$<br>$\color{indigo}{\text{A Quantum-Neurotrophic Rescue Model}}$
+# $\color{indigo}{\text{The GDNF-Ibogaine Axis:}}$<br>$\color{indigo}{\text{A Systems-Biological Neurotrophic Rescue Model}}$
 
 **Status:** In Progress / Literature Synthesis Phase  
 **Researcher:** Julia Berman 🐘  
 **Date:** March 2026  
-**Subject:** Molecular Biology & Quantum Neurobiology
+**Subject:** Molecular Biology & Neurobiology
 
 ## $\color{mediumpurple}{\text{Abstract}}$
 
@@ -24,6 +24,8 @@ The neural architecture is viewed here not as a static machine, but as a dynamic
 
 This model posits that neurotrophic restoration follows a recursive growth algorithm. Unlike linear repair, where a stimulus leads to a fixed amount of growth, a recursive model suggests that each new dendritic branch increased by $\large{\textit{GDNF}}$ signaling serves as a new platform for further receptor expression.
 
+<img src="images/final_comparison_fixed.png" width="90%" />
+
 | Stage | Mechanism | Biological / Structural Outcome |
 | :--- | :--- | :--- |
 | **1. Initial Pulse** | Sub-perceptual iboga alkaloids | Triggers primary $\large{\textit{GDNF}}$ release and receptor priming. |
@@ -34,8 +36,3 @@ This model posits that neurotrophic restoration follows a recursive growth algor
 ## $\color{mediumpurple}{\text{References}}$
 1. <a id="ref1"></a> Nicolas M. (2025). Ibogaine's potential role in supporting reward system recovery across diagnostic boundaries. Frontiers in pharmacology, 16, 1744383. https://doi.org/10.3389/fphar.2025.1744383
 2. <a id="ref2"></a> He, D. Y., & Ron, D. (2006). Autoregulation of glial cell line-derived neurotrophic factor expression: implications for the long-lasting actions of the anti-addiction drug, Ibogaine. FASEB journal : official publication of the Federation of American Societies for Experimental Biology, 20(13), 2420–2422. https://doi.org/10.1096/fj.06-6394fje
-3. 
-<div align="center">
-  <img src="final_comparison_fixed.png" width="90%" />
-  <p><b>Figure 1:</b> Comparison of Neural Topologies. <i>Left:</i> Aberrant/Decoherent state. <i>Right:</i> Post-GDNF Holistic Re-arborization.</p>
-</div>
