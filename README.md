@@ -1,19 +1,13 @@
 # 🧠 GDNF Stimulation in ASD: A Holistic Neurodevelopmental Hypothesis 
-Building on established evidence that GDNF promotes the survival/recovery of dopaminergic neurons in Parkinson’s Disease (Lin et al., 1993; Gash et al., 1996) [1,2], this research posits that these neurorestorative benefits extend to neurodevelopmental disorders, such as Autism Spectrum Disorder (ASD), which are characterized by brain wiring anomalies. This research was inspired by my research into GDNF's potential benefits for autism and is particularly relevant for me because I am on the autism spectrum, and have noticed a profound transformation (return of childlike coherence and curiosity with adult cognition intact) since initiating my own "reboot."
+Building on established evidence that GDNF promotes the survival/recovery of dopaminergic neurons in Parkinson’s Disease (Lin et al., 1993; Gash et al., 1996) [1](#ref1), [2](#ref2)), this research posits that these neurorestorative benefits extend to neurodevelopmental disorders, such as Autism Spectrum Disorder (ASD), which are characterized by brain wiring anomalies. This research was inspired by my research into *GDNF*'s potential benefits for autism and is particularly relevant for me because I am on the autism spectrum, and have noticed a profound transformation (return of childlike coherence and curiosity with adult cognition intact) since initiating my own "reboot."
 
-This is a theoretical framework proposing short- to mid-term, low-dose glial cell line-derived neurotrophic factor (GDNF) stimulation via exercise, integrated natural methods, or exploratory alkaloid modulation with the goal of **promoting a targeted neuronal growth and dopaminergic resensitization in autism spectrum disorder (ASD), enhancing empathy-related frontal lobe circuitry while preserving existing parietal benefits.** I propose this is analogous to a "Device Firmware Update" in computer science, whereas modern therapeutic approaches focus on optimizing or updating the "software."
+This is a theoretical framework proposing short- to mid-term, low-dose glial cell line-derived neurotrophic factor (*GDNF*) stimulation via exercise, integrated natural methods, or exploratory alkaloid modulation with the goal of promoting a targeted neuronal growth and dopaminergic resensitization in autism spectrum disorder (ASD), enhancing empathy-related frontal lobe circuitry while preserving existing parietal benefits. I propose this is analogous to a device firmware update in computer science, whereas modern therapeutic approaches focus on optimizing or updating the "software."
 
 **Repository Status**: Purely theoretical, literature-based, and computational. All ideas are exploratory hypotheses. Important: This is not intended for clinical recommendations, interventions, or unapproved protocols. **Ibogaine is explicitly included only as a preclinical research observation (not a suggested intervention).** Ethical focus on neurodiversity-affirming, non-invasive approaches.
 
-## ⚖️ Legal and Safety Disclaimer
-
-> This document is for theoretical and educational purposes only. It does not constitute medical advice, treatment recommendations, or protocols of any kind. GDNF stimulation via any method (including ibogaine) remains untested for ASD in humans.
-
-**Ibogaine** is a Schedule I controlled substance in the United States and is illegal in many jurisdictions. It carries serious risks including cardiotoxicity (QT prolongation), neurotoxicity at high doses, hallucinations, and potential lethality. Low-dose or any use is **not** endorsed or recommended. All content is hypothetical and derived solely from published animal/preclinical literature. Consult licensed medical professionals and comply with all local laws. The authors assume no liability for any interpretation or action based on this repository.
-
 ## 🌳 Abstract
 
-Autism spectrum disorder (ASD) affects approximately 1 in 31 children (according to 2022 CDC data) [3] and involves complex neurodevelopmental differences, including dopaminergic signaling abnormalities often managed symptomatically (e.g., via D2-modulating antipsychotics). This project hypothesizes that **GDNF**, a potent neurotrophic factor known for protecting and regenerating midbrain dopaminergic neurons, could be stimulated holistically (low-dose, short/mid-term) to induce structural "hardware" changes:
+Autism spectrum disorder (ASD) affects approximately 1 in 31 children (according to 2022 CDC data) [3] and involves complex neurodevelopmental differences, including dopaminergic signaling abnormalities often managed symptomatically (e.g., via D2-modulating antipsychotics). This project hypothesizes that *GDNF*, a potent neurotrophic factor known for protecting and regenerating midbrain dopaminergic neurons, could be stimulated holistically (low-dose, short/mid-term) to induce structural "hardware" changes:
 
 - Targeted neurogenesis/growth in deficient areas (e.g., frontal/prefrontal regions for empathy, social cognition, executive function).
 - Preservation of strengths (e.g., parietal connectivity for sensory/detail processing).
@@ -60,11 +54,17 @@ To move this framework from theory to real-world validation, I plan to collabora
 * **Epigenomic Profiling (Pellegrini Lab):** Here, we could explore how GDNF/BDNF autoregulatory loops influence the epigenome. Drawing on the lab’s strengths in DNA methylation analysis, we can test whether “pulsed rescue” approaches leave a durable molecular signature in neural stem cells.
 * **Systems Biology & Neurogenetics (Geschwind Lab):** I’d aim to align the Recursive Dendrite Model with the lab’s extensive transcriptomic and functional genomic maps of autism spectrum disorder (ASD). The key question is whether GDNF-mediated “symphony” states can help reverse or modulate the specific gene expression disruptions observed in their large-scale ASD cohorts.
 
+## ⚖️ Legal and Safety Disclaimer
+
+> This document is for theoretical and educational purposes only. It does not constitute medical advice, treatment recommendations, or protocols of any kind. GDNF stimulation via any method (including ibogaine) remains untested for ASD in humans.
+
+**Ibogaine** is a Schedule I controlled substance in the United States and is illegal in many jurisdictions. It carries serious risks including cardiotoxicity (QT prolongation), neurotoxicity at high doses, hallucinations, and potential lethality. Low-dose or any use is **not** endorsed or recommended. All content is hypothetical and derived solely from published animal/preclinical literature. Consult licensed medical professionals and comply with all local laws. The authors assume no liability for any interpretation or action based on this repository.
+
 ## References
-1. https://pubmed.ncbi.nlm.nih.gov/8493557/
-2. https://pubmed.ncbi.nlm.nih.gov/8637574/
-3. https://www.cdc.gov/autism/data-research/index.html
-4. https://www.science.org/doi/10.1126/science.8493557
-5. https://www.jneurosci.org/content/25/3/619
-6. https://pubmed.ncbi.nlm.nih.gov/17023388/
-7. https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2019.00193/full
+1. <a id="ref1"></a>Lin, L.-F. H., Doherty, D. H., Lile, J. D., Bektesh, S., & Collins, F. (1993). GDNF: A glial cell line-derived neurotrophic factor for midbrain dopaminergic neurons. *Science*, 260(5111), 1130–1132. https://doi.org/10.1126/science.8493557
+2. <a id="ref2"></a>Gash, D. M., Zhang, Z., Ovadia, A., Cass, W. A., Yi, A., Simmerman, L., Russell, D., Martin, D., Lapchak, P. A., Collins, F., Hoffer, B. J., & Gerhard, G. A. (1996). Functional recovery in parkinsonian monkeys treated with GDNF. *Nature*, 380(6571), 252–255. https://doi.org/10.1038/380252a0
+3. <a id="ref3"></a>Centers for Disease Control and Prevention. (2024). *Data and statistics on autism spectrum disorder*. https://www.cdc.gov/autism/data-research/index.html
+4. <a id="ref4"></a>Lin, L.-F. H., Doherty, D. H., Lile, J. D., Bektesh, S., & Collins, F. (1993). GDNF: A glial cell line-derived neurotrophic factor for midbrain dopaminergic neurons. *Science*, 260(5111), 1130–1132. https://doi.org/10.1126/science.8493557
+5. <a id="ref5"></a>Granados-Fuentes, D., Tseng, A., & Herzog, E. D. (2006). A circadian clock in the olfactory bulb controls olfactory responsivity. *The Journal of Neuroscience*, 26(47), 12219–12225. https://doi.org/10.1523/jneurosci.3445-06.2006
+6. <a id="ref6"></a>Ahmadiantehrani, S., & Ron, D. (2013). Dopamine D2 receptor activation leads to an up-regulation of glial cell line-derived neurotrophic factor via Gβγ-Erk1/2-dependent induction of Zif268. *Journal of Neurochemistry*, 125(2), 193–204. https://doi.org/10.1111/jnc.12178
+7. <a id="ref7"></a>Marton, S., González, B., Rodríguez-Bottero, S., Miquel, E., Martínez-Palma, L., Pazos, M., Prieto, J. P., Rodríguez, P., Sames, D., Seoane, G., Scorza, C., Cassina, P., & Carrera, I. (2019). Ibogaine administration modifies GDNF and BDNF expression in brain regions involved in mesocorticolimbic and nigral dopaminergic circuits. *Frontiers in Pharmacology*, 10, Article 193. https://doi.org/10.3389/fphar.2019.00193
