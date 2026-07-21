@@ -33,9 +33,18 @@ This model posits that neurotrophic restoration follows a recursive growth algor
 | **3. Feedback** | Signal Amplification | Captured neurotrophins trigger the [He & Ron (2006)](https://doi.org/10.1096/fj.06-6394fje) autoregulatory loop. |
 | **4. Stability** | Neural Homeostasis | The neural architecture becomes a self-maintaining, resilient system. |
 
+### $\color{mediumpurple}{\text{Connection to Neurodivergent Phenotypes}}$
+
+Autistic brains have shown hypopruning during adolescence. This is thought to produce a potential imbalance as the signal tries to integrate with the cerebellum of autism that has lower Purkinje cells relative to neurotypical phenotypes. This hypopruning state can be modeled by adjusting the depth factor on the model to a higher number such as 14. *GDNF* stimulation, whether through hormetic low-dose iboga alkaloid consumption or long-distance running, is thought to normalize the pruning of neurons, restoring them to an optimal depth factor that allows for efficient adult synaptic transmission and integration while preserving some neuroplasticity capacity present in juvenile states.
+
+<img src="images/GDNF_Dendritic_Optimization.png" width="90%" />
+
+
 ## $\color{mediumpurple}{\text{Implications and Future Directions}}$
 
 This framework posits that the benefits of pulsed, low-dose hormetic iboga may extend far beyond addiction recovery and dopamine signal normalization. Interestingly, autistic people have been shown to have lower levels of $GDNF$ gene expression, and lower levels correlate with more severe behavioral and cognitive deficits [[3]](#ref3). It is hypothesized that pulsed low levels of these alkaloids could theoretically lead to increased $GDNF$ expression through an imprinting-like topological and neurochemical mechanism. The low-dose nature of this framework could lessen the cardiac risk profile, though it still remains a serious concern. To test this, we could use iPSC organoid models of ASD and compare $GDNF$ expression before and after iboga alkaloid or analogue pulsed hormetic administration (using neurotypical organoids as a control group). To see if the effect persists over time, gene expression should be measured immediately among completing the dosing protocol, 1 month after, 3 months after, 6 months after, and 12 months after.
+
+## Connectio
 
 ## $\color{mediumpurple}{\text{References}}$
 1. <a id="ref1"></a> Nicolas M. (2025). Ibogaine's potential role in supporting reward system recovery across diagnostic boundaries. Frontiers in pharmacology, 16, 1744383. https://doi.org/10.3389/fphar.2025.1744383
